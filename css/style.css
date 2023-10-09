@@ -1,2 +1,25 @@
 :root {
+  --iris: #4d5ae5;
+  --navyblue: #2e2f42;
+  --slate: #2e2f42;
+  --white: #fff;
+  --cornflower: #e7e9fc;
+  --cloud: #f4fdfd;
+  --ocean: #404bbf;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.bg-dark {
+  background-color: var(--navyblue);
+}
+
+.logo span {
 }
